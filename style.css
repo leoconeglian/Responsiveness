@@ -78,6 +78,7 @@ ul {
     
     body {
         font-size: 2.0rem;
+        line-height: 2.5rem;
     }
 
     main {
@@ -97,10 +98,17 @@ ul {
 
     h1, h2 {
         font-size: 4.0rem;
+        line-height: 5rem;
     }
 
     p {
         max-width: 43.5rem;
+    }
+    
+    button { 
+        padding: 1rem 2rem;
+        font-size: 1.4rem;
+        line-height: 2.4rem;
     }
     
 }
